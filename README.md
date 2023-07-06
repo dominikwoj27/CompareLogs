@@ -6,7 +6,8 @@ Przygotowanie logów:
 2. Oddzielnie przygotuj podobny plik *.txt z transakcjiami z systemu na którym nie otrzymaliśmy wszystikch (np. drugi.txt)
 
 3. Upewnij się że zapisane logi są w formacie:
-"<DEBU> (00:00:01)> Przeczytano obiekt typu 5 CDC=3690, sn=180874394, date=16-CZE-2023:23:52:52, dateUTC=16-CZE-2023:21:52:52, dateCDC=3690"
+
+  "<DEBU> (00:00:01)> Przeczytano obiekt typu 5 CDC=3690, sn=180874394, date=16-CZE-2023:23:52:52, dateUTC=16-CZE-2023:21:52:52, dateCDC=3690"
 
 4. Upewnij się, że w skopiowanych plikach znajdują się wszystkie transakcje między minSequence oraz maxSequence (odczytaj w raporcie dziennym jakie były)
 
