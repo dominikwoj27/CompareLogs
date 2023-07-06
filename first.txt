@@ -1,0 +1,5 @@
+Przeczytano obiekt typu 5 CDC=3690, sn=179879966, date=15-CZE-2023:23:54:25, dateUTC=15-CZE-2023:21:54:25, dateCDC=3689
+Przeczytano obiekt typu 5 CDC=3690, sn=179879967, date=15-CZE-2023:23:54:25, dateUTC=15-CZE-2023:21:54:25, dateCDC=3689
+Przeczytano obiekt typu 5 CDC=3690, sn=179879970, date=15-CZE-2023:23:54:25, dateUTC=15-CZE-2023:21:54:25, dateCDC=3689
+Przeczytano obiekt typu 5 CDC=3690, sn=179879971, date=15-CZE-2023:23:54:30, dateUTC=15-CZE-2023:21:54:30, dateCDC=3689
+Przeczytano obiekt typu 5 CDC=3690, sn=179879977, date=15-CZE-2023:23:53:58, dateUTC=15-CZE-2023:21:53:58, dateCDC=3689
